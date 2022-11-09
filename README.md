@@ -1,3 +1,13 @@
+<h3 align="center">
+ Bem-Vindo ao meu perfil!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Meu+nome+e+Haniel!;Sou+um+estudante+de+Direito;E+nas+horas+vagas+Desenvolvedor+Java" alt="Typing SVG" /></a>
+
+
+
 ```js
 import Desenvolvedor from 'HanielFialho';
 
