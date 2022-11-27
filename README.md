@@ -12,15 +12,15 @@
 import Desenvolvedor from 'HanielFialho';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'HanielFialho';
-  area    = 'Advogado e desenvolvedor Java';
+  nome = 'HanielFialho';
+  area = 'Advogado e desenvolvedor Java';
   trabalho  = 'Nenhum lugar';
   local = 'Rio Piracicaba - MG';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Java' 'MySQL'];
-  bibliotecas  = ['Desenvolvendo...'];
+  linguagens = ['Java' 'MySQL'];
+  bibliotecas = ['Desenvolvendo...'];
   frameworks = ['Desenvolvendo...'];
 }
 ```
