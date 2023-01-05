@@ -35,5 +35,5 @@ class Skills extends Desenvolvedor {
   <a href="https://www.instagram.com/haniel_fialho" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flatsquare&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/haniel_fialho/"/></a>
   
- ![Snake animation](https://github.com/HanielCota/HanielCota/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/HanielCota/HanielCota/blob/output/github-contribution-grid-snake.svg)
 </p>  
