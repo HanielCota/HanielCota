@@ -37,9 +37,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{hanielcota}/count.svg" /></p> 
 <br>
 </div>
-
-  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hanielcota&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30a8f2&height=120&section=footer"/>
 
