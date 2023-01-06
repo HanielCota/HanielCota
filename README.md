@@ -34,5 +34,5 @@ class Skills extends Desenvolvedor {
 
   <a href="https://www.instagram.com/haniel_fialho" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flatsquare&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/haniel_fialho/"/></a>
-  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hanielcota&bg_color=2d2529&color=fff5fe&line=4c9e78&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>  
