@@ -38,11 +38,5 @@
 <br>
 </div>
   
-<div align="center">
-
-  ![Snake animation](https://github.com/hanielcota/hanielcota/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
- 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30a8f2&height=120&section=footer"/>
 
