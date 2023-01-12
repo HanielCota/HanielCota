@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=30a8f2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Haniel+Fialho;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Engineering+Software;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hanielcota&show_icons=true&count_private=true&hide_border=true&title_color=30a8f2&icon_color=30a8f2&text_color=30a8f2&bg_color=0d1117" alt="Haniel Cota github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanielcota&layout=compact&hide_border=true&title_color=30a8f2&text_color=30a8f2&bg_color=0d1117"/>
-</div>
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hanielcota&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
