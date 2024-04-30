@@ -4,7 +4,7 @@ Hi 👋 My name is Haniel Fialho
 Full Stack Software Developer
 -----------------------------
 
-I'm a 22 years old developer and hacking since I was 14. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 23 years old developer and hacking since I was 14. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
 I am also a student at [Doctum | JM](https://doctum.edu.br). Lawyer
 
