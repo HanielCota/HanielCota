@@ -56,7 +56,7 @@ PostgreSQL · MongoDB · Heroku (apps & pipelines)
 
 * **GitHub:** [@HanielCota](https://github.com/HanielCota)
 * **LinkedIn:** [/in/hanielfialho](https://www.linkedin.com/in/hanielfialho)
-* **YouTube:**  [https://www.youtube.com/@](https://www.youtube.com/@)/@HanielFialho/featured
+* **YouTube:**  [https://www.youtube.com/@](https://www.youtube.com/@HanielFialho/featured
 * **Discord:** hanielfialho
 
 Or email me at **[beedfialho@gmail.com](mailto:beedfialho@gmail.com)**.
