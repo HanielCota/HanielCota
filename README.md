@@ -47,7 +47,7 @@ PostgreSQL · MongoDB · Heroku (apps & pipelines)
 ## 📌 Featured Work
 
 * **Ankares** — shipping real features, iterating fast. *More soon.* → [ankares.com](http://ankares.com)
-
+* **Floruit** — shipping real features, iterating fast. *More soon.* → [floruit.com.br](http://floruit.com.br)
 > Want a deeper look? I’m happy to walk through code, tradeoffs, and results.
 
 ---
@@ -76,18 +76,3 @@ Or email me at **[beedfialho@gmail.com](mailto:beedfialho@gmail.com)**.
 I love tough problems, clean commits, and a tough workout.
 
 ---
-
-### 🇧🇷 Versão em Português (opcional)
-
-**Desenvolvedor Full Stack** · **Estudante de Direito na Doctum (JM)**
-
-Desde os 14 anos programo e transformo ideias em software real. Meu foco é criar aplicações web completas (front e back‑end) com arquitetura sólida e ótima experiência de uso.
-
-* 🌍 **Rio Piracicaba – MG, Brasil**
-* ✉️ **[beedfialho@gmail.com](mailto:beedfialho@gmail.com)**
-* 🚀 **[Ankares](http://ankares.com)**
-* 📚 Estudando **Java avançado**, **Testes de Unidade** e **C/C++**
-* 🤝 Aberto a colaborar em projetos com impacto real
-* 🏋️‍♂️ Curto esportes — principalmente academia
-
-**Stack:** Java · JavaScript · TypeScript · C · C++ · (um pouco de) Rust · HTML · CSS · React · Next.js · Svelte · Tailwind · MUI · Redux · Webpack · Node.js · Express · NestJS · GraphQL · PostgreSQL · MongoDB · Heroku
