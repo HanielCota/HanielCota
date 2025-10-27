@@ -77,17 +77,6 @@ I love tough problems, clean commits, and a tough workout.
 
 ---
 
-## 📊 (Optional) GitHub Stats
-
-> Uncomment if you like these cards — they use your **@HanielCota** username.
-
-```md
-![GitHub Streak](https://streak-stats.demolab.com?user=HanielCota&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanielCota&layout=compact&theme=transparent)
-```
-
----
-
 ### 🇧🇷 Versão em Português (opcional)
 
 **Desenvolvedor Full Stack** · **Estudante de Direito na Doctum (JM)**
@@ -102,5 +91,3 @@ Desde os 14 anos programo e transformo ideias em software real. Meu foco é cria
 * 🏋️‍♂️ Curto esportes — principalmente academia
 
 **Stack:** Java · JavaScript · TypeScript · C · C++ · (um pouco de) Rust · HTML · CSS · React · Next.js · Svelte · Tailwind · MUI · Redux · Webpack · Node.js · Express · NestJS · GraphQL · PostgreSQL · MongoDB · Heroku
-
-> Se quiser, posso manter apenas um idioma para deixar o README mais direto.
