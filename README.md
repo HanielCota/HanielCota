@@ -1,108 +1,228 @@
-<!-- Header -->
-<h1 align="center">👋 Hey, I'm <strong>Haniel Fialho</strong></h1>
-<h3 align="center">💻 Full-Stack Software Developer · ⚖️ Law Student @ Doctum (JM)</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:beedfialho@gmail.com"><img src="https://img.shields.io/badge/Email-beedfialho%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/hanielfialho"><img src="https://img.shields.io/badge/LinkedIn-hanielfialho-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/HanielCota"><img src="https://img.shields.io/badge/GitHub-HanielCota-171515?style=flat-square&logo=github"></a>
-  <a href="https://www.youtube.com/@HanielFialho/featured"><img src="https://img.shields.io/badge/YouTube-HanielFialho-FF0000?style=flat-square&logo=youtube"></a>
+# 👋 Haniel Fialho
+
+### Full-Stack Developer · Law Student
+
+<p>
+  <a href="mailto:beedfialho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/hanielfialho">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/HanielCota">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/@HanielFialho">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
----
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│  Building production-ready software with clean architecture │
+│  and delightful user experiences since 2014                 │
+└─────────────────────────────────────────────────────────────┘
+```
 
-### 🧭 About Me
-
-I’ve been hacking since I was 14 — passionate about building **production-ready software** that connects **clean architecture** with **delightful UX**.  
-Currently focused on **end-to-end web applications** that make a real impact.
-
-- 🌍 Based in **Rio Piracicaba – MG, Brazil**  
-- 🚀 Working on **[Ankares](https://ankares.com)** and **[Floruit](https://floruit.com.br)**  
-- 📚 Leveling up in **Advanced Java**, **Unit Testing**, and **C/C++**  
-- 🤝 Open to collaborating on projects that improve people’s lives  
-- 🏋️‍♂️ Outside the editor, I’m probably at the gym  
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## 🎯 About Me
 
-#### 💡 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=rust&logoColor=white)
+```typescript
+const haniel = {
+  location: "Rio Piracicaba, MG 🇧🇷",
+  education: "Law @ Doctum (JM)",
+  focus: ["End-to-end web applications", "Clean architecture", "User experience"],
+  currentProjects: ["Ankares", "Floruit"],
+  learning: ["Advanced Java", "Unit Testing", "C/C++"],
+  interests: ["Software architecture", "Open source", "Fitness"],
+  lifePhilosophy: "Tough problems, clean commits, tougher workouts 💪"
+};
+```
 
-#### 🎨 Front-end
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat&logo=svelte&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
+<div align="center">
+  
+🚀 **Open to collaborating on projects that make a real impact**
 
-#### ⚙️ Back-end
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![NestJS](https://img.shields.io/badge/NestJS-ea2845?style=flat&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
-#### 🗄️ Databases & Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-
-> 🧩 *Pragmatic with tools — pick what fits the problem, keep it simple, and ship reliably.*
+</div>
 
 ---
 
-### 🛠️ Skills at a Glance
-- 🧱 **Architecture:** modular monoliths · API design · authentication & sessions  
-- ✅ **Code Quality:** unit testing (JUnit / Jest) · CI-friendly patterns · type-safe APIs  
-- 🎨 **Front-end Craft:** responsive design · state management · accessible UI  
-- ⚡ **Performance:** profiling · bundle optimization · SQL/query tuning  
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Database & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+</div>
+
+<div align="center">
+
+> *"Pick what fits the problem, keep it simple, ship reliably."*
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## 💼 Core Competencies
 
-| Project | Description | Link |
-|----------|--------------|------|
-| 🧩 **Ankares** | SaaS platform focused on delivering real features fast. | [ankares.com](https://ankares.com) |
-| 🌸 **Floruit** | Modern site with scalable design system & custom blog architecture. | [floruit.com.br](https://floruit.com.br) |
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ Architecture & Design
+- Modular monoliths
+- RESTful & GraphQL APIs
+- Authentication & session management
+- Domain-driven design
+
+</td>
+<td width="50%">
+
+### ✅ Quality & Testing
+- Unit testing (JUnit, Jest)
+- CI/CD pipelines
+- Type-safe implementations
+- Code review practices
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend Craft
+- Responsive design systems
+- State management patterns
+- Accessibility (a11y)
+- Component architecture
+
+</td>
+<td width="50%">
+
+### ⚡ Performance
+- Application profiling
+- Bundle optimization
+- Database query tuning
+- Caching strategies
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌍 Connect
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/HanielCota"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/hanielfialho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.youtube.com/@HanielFialho/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="mailto:beedfialho@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧩 [Ankares](https://ankares.com)
+**SaaS Platform**
+
+Fast feature delivery with modern stack
+<br/>
+*Real solutions, production-ready*
+
+</td>
+<td align="center" width="50%">
+
+### 🌸 [Floruit](https://floruit.com.br)
+**Modern Web Experience**
+
+Scalable design system & blog architecture
+<br/>
+*Performance meets aesthetics*
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HanielCota&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HanielCota&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanielCota&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://github.com/HanielCota">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HanielCota&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github" />
+</a>
+
+<a href="https://github.com/HanielCota">
+  <img height="180em" src="https://streak-stats.demolab.com?user=HanielCota&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+</a>
+
+<a href="https://github.com/HanielCota">
+  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HanielCota&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</a>
+
+</div>
 
 ---
 
-### 🧭 Currently Exploring
-- Advanced **Java patterns** — streams, concurrency, and Spring alternatives  
-- **Testing architectures** for Node/TypeScript services  
-- **Systems programming** with C/C++ fundamentals  
+## 🎓 Currently Learning
+
+```java
+public class Growth {
+    private String[] currentFocus = {
+        "Advanced Java patterns (streams, concurrency, frameworks)",
+        "Testing architectures for Node/TypeScript services",
+        "Systems programming with C/C++ fundamentals",
+        "Database optimization and scalability"
+    };
+    
+    public void neverStopLearning() {
+        while (true) {
+            learn();
+            build();
+            improve();
+        }
+    }
+}
+```
 
 ---
 
-### ⚡ Fun Fact
-I love tough problems, clean commits, and a tougher workout.
+<div align="center">
+
+### 💬 Let's Connect!
+
+**Open to collaborations, interesting projects, and good conversations**
+
+<sub>Made with ❤️ and ☕ by Haniel Fialho</sub>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=HanielCota&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/HanielCota)
+
+</div>
