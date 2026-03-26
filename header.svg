@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" fill="none">
+  <defs>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.5" fill="#c9d1d9" opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+
+  <!-- Top and bottom accent lines -->
+  <line x1="0" y1="0.5" x2="1200" y2="0.5" stroke="url(#accentLine)" stroke-width="1"/>
+  <line x1="0" y1="299.5" x2="1200" y2="299.5" stroke="url(#accentLine)" stroke-width="1"/>
+
+  <!-- Terminal prefix -->
+  <text x="600" y="100" fill="#484f58" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" text-anchor="middle" letter-spacing="1">~/dev $</text>
+
+  <!-- Name -->
+  <text x="600" y="148" fill="#e6edf3" font-family="'Segoe UI', 'SF Pro Display', system-ui, sans-serif" font-weight="700" font-size="48" text-anchor="middle" letter-spacing="-0.5">Haniel Fialho</text>
+
+  <!-- Separator -->
+  <line x1="480" y1="168" x2="720" y2="168" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Subtitle -->
+  <text x="600" y="196" fill="#8b949e" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" text-anchor="middle" letter-spacing="2">minecraft kid  &gt;  fullstack dev  &gt;  ai builder</text>
+
+  <!-- Location -->
+  <text x="600" y="230" fill="#484f58" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" letter-spacing="1">Rio Piracicaba, MG  //  Brazil</text>
+
+  <!-- Cursor blink on subtitle -->
+  <rect x="786" y="184" width="1.5" height="14" fill="#58a6ff" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
