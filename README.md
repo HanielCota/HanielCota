@@ -1,162 +1,211 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Haniel%20Fialho&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20·%20Law%20Student%20·%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6d28d9,50:a855f7,100:c084fc&height=180&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
 
-</div>
+<br>
 
-<div align="center">
-
-```
-◈ ─────────────────────────────────────────────────────── ◈
-       Escrevo código que funciona de dia e lei à noite
-◈ ─────────────────────────────────────────────────────── ◈
-```
-
-[![Email](https://img.shields.io/badge/beedfialho%40gmail.com-0f0c29?style=flat-square&logo=gmail&logoColor=a78bfa&labelColor=0f0c29)](mailto:beedfialho@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/hanielfialho-0f0c29?style=flat-square&logo=linkedin&logoColor=a78bfa&labelColor=0f0c29)](https://linkedin.com/in/hanielfialho)
-[![YouTube](https://img.shields.io/badge/@HanielFialho-0f0c29?style=flat-square&logo=youtube&logoColor=a78bfa&labelColor=0f0c29)](https://www.youtube.com/@HanielFialho)
-![Visitors](https://komarev.com/ghpvc/?username=HanielCota&color=7c3aed&style=flat-square&label=visitors)
-
-</div>
-
----
-
-## `$ whoami`
-
-```typescript
-const haniel: Developer = {
-  location: "Rio Piracicaba, MG 🇧🇷",
-  stack:    ["Java", "TypeScript", "Node.js", "React", "Next.js", "Rust"],
-  building: ["Ankares ↗", "Floruit ↗"],
-  studying: ["Advanced Java", "Unit Testing", "C/C++", "Direito 🏛️"],
-  
-  principles: [
-    "Arquitetura que sobrevive ao crescimento",
-    "Código que um humano consegue ler",
-    "Ship. Learn. Repeat.",
-  ],
-
-  offscreen: () => ["treino pesado 🏋️", "café duplo ☕", "problema difícil 🧩"],
-};
-```
-
----
-
-## `$ ls ./tech-stack`
-
-<div align="center">
-
-**[ Languages ]**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**[ Frontend ]**
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-**[ Backend & Infra ]**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
----
-
-## `$ cat ./projects`
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-<br/>
-
-### 🧩 Ankares
-
-**SaaS Platform em produção**
-
-Entrega rápida de features com stack moderna,
-arquitetura limpa e foco em resultado real.
-
-[**ankares.com →**](https://ankares.com)
-
-</td>
-<td align="center" width="50%">
-
-<br/>
-
-### 🌸 Floruit
-
-**Experiência web de alto nível**
-
-Design system escalável, blog com performance
-e estética que conversa com o conteúdo.
-
-[**floruit.com.br →**](https://floruit.com.br)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## `$ git log --graph`
-
-<div align="center">
-
+<!-- Typing SVG — two separate lines -->
 <a href="https://github.com/HanielCota">
-  <img height="175px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HanielCota&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Haniel+Fialho" alt="Name" />
 </a>
+<br>
 <a href="https://github.com/HanielCota">
-  <img height="175px" src="https://streak-stats.demolab.com?user=HanielCota&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=520&height=30&lines=minecraft+kid+%E2%86%92+fullstack+dev+%E2%86%92+ai+builder;10%2B+anos+transformando+curiosidade+em+c%C3%B3digo" alt="Subtitle" />
 </a>
 
-<br/>
+<br>
 
-<a href="https://github.com/HanielCota">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanielCota&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%" />
+<a href="mailto:beedfialho@gmail.com"><img src="https://img.shields.io/badge/email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=c084fc" /></a>
+<a href="https://linkedin.com/in/hanielfialho"><img src="https://img.shields.io/badge/linkedin-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=c084fc" /></a>
+<a href="https://www.youtube.com/@HanielFialho"><img src="https://img.shields.io/badge/youtube-1a1a2e?style=for-the-badge&logo=youtube&logoColor=c084fc" /></a>
+<a href="https://twitter.com/PrazerBeeD"><img src="https://img.shields.io/badge/twitter-1a1a2e?style=for-the-badge&logo=x&logoColor=c084fc" /></a>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- THE JOURNEY — SVG TIMELINE                      -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+
+<!-- 
+  ⚠️ IMPORTANTE: Coloque o arquivo timeline.svg na raiz do repo.
+  O caminho abaixo assume que está em: HanielCota/HanielCota/timeline.svg
+-->
+<img src="./timeline.svg" alt="Minha jornada: de Minecraft em 2014 até IA em 2026" width="100%" />
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- TECH STACK                                      -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>⚡ o arsenal</h2>
+<sub>as ferramentas que uso pra transformar ideia em produto</sub>
+
+<br><br>
+
+<details open>
+<summary><b>🎨 frontend — onde o pixel encontra a lógica</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,tailwind,html,css&theme=dark&perline=8" />
+</details>
+
+<details open>
+<summary><b>⚙️ backend — onde a mágica acontece</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=java,nodejs,nestjs,express,graphql,postgres,mongodb,redis&theme=dark&perline=8" />
+</details>
+
+<details open>
+<summary><b>🛠️ tools & languages — o canivete suíço</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,rust,c,cpp,docker,git,linux&theme=dark&perline=8" />
+</details>
+
+<details open>
+<summary><b>🤖 ai & dev tools — o multiplicador de força</b></summary>
+<br>
+
+<img src="https://img.shields.io/badge/Cursor-1a1a2e?style=for-the-badge&logo=cursor&logoColor=c084fc" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-1a1a2e?style=for-the-badge&logo=githubcopilot&logoColor=c084fc" />
+<img src="https://img.shields.io/badge/Claude_/_Anthropic-1a1a2e?style=for-the-badge&logo=anthropic&logoColor=c084fc" />
+<img src="https://img.shields.io/badge/OpenAI_API-1a1a2e?style=for-the-badge&logo=openai&logoColor=c084fc" />
+<br>
+<img src="https://img.shields.io/badge/n8n-1a1a2e?style=for-the-badge&logo=n8n&logoColor=c084fc" />
+<img src="https://img.shields.io/badge/LangChain-1a1a2e?style=for-the-badge&logo=chainlink&logoColor=c084fc" />
+<img src="https://img.shields.io/badge/Vercel_AI_SDK-1a1a2e?style=for-the-badge&logo=vercel&logoColor=c084fc" />
+
+</details>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- PROJECTS                                        -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>🏗️ o que estou construindo</h2>
+
+<br>
+
+<a href="https://ankares.com">
+<img src="https://img.shields.io/badge/🧩_ANKARES-SaaS_em_produção-6d28d9?style=for-the-badge&labelColor=1a1a2e" />
+</a>
+&nbsp;&nbsp;
+<a href="https://floruit.com.br">
+<img src="https://img.shields.io/badge/🌸_FLORUIT-Design_&_Performance-a855f7?style=for-the-badge&labelColor=1a1a2e" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/HanielCota/FialhoClean">
+<img src="https://img.shields.io/badge/🧹_FIALHOCLEAN-Tauri_+_Rust_+_React-c084fc?style=for-the-badge&labelColor=1a1a2e" />
 </a>
 
 </div>
 
----
+<br>
 
-## `$ tail -f ./learning.log`
-
-```
-[2025] ▶  Advanced Java — streams, concurrency, frameworks
-[2025] ▶  Testing architecture — JUnit · Jest · Vitest
-[2025] ▶  Systems — C/C++ · memória · ponteiros · dor
-[2025] ▶  Scalability — DB tuning, caching, observability
-[....] ⏳  Sempre tem mais uma coisa na fila...
-```
-
----
+<!-- ═══════════════════════════════════════════════ -->
+<!-- STATS                                           -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
 
+<h2>📊 os números</h2>
+
+<br>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HanielCota&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=8b949e&ring_color=6d28d9&rank_icon=github&include_all_commits=true" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HanielCota&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=8b949e&langs_count=8" height="180"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=HanielCota&hide_border=true&background=0d1117&stroke=6d28d9&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=8b949e&dates=8b949e&currStreakNum=c084fc&sideNums=a855f7" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HanielCota&bg_color=0d1117&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=6d28d9&hide_border=true&custom_title=contribui%C3%A7%C3%B5es" width="95%"/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- CURRENTLY                                       -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>🎯 agora</h2>
+
+<br>
+
 ```
-◈ ──────────────────────────────────────────────── ◈
-   Tough problems · Clean commits · Tougher workouts
-◈ ──────────────────────────────────────────────── ◈
+  ╔══════════════════════════════════════════════════════════╗
+  ║                                                          ║
+  ║   🤖  explorando IA no desenvolvimento                   ║
+  ║   📚  estudando direito (sim, código E lei)              ║
+  ║   🏋️  treinando pesado                                   ║
+  ║   ☕  movido a café duplo                                 ║
+  ║   🧩  resolvendo problemas que ninguém pediu             ║
+  ║                                                          ║
+  ╚══════════════════════════════════════════════════════════╝
 ```
 
-**→ Aberto a colaborações, projetos ambiciosos e boas conversas**
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- SNAKE ANIMATION                                 -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HanielCota/HanielCota/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HanielCota/HanielCota/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/HanielCota/HanielCota/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- FOOTER                                          -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=2&section=header" width="60%" />
+
+<br><br>
+
+```
+"a curiosidade que me fez abrir o eclipse em 2014
+ é a mesma que me faz estudar ia em 2026."
+```
+
+<br>
+
+<img src="https://img.shields.io/badge/aberto_a-colaborações-6d28d9?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/projetos-ambiciosos-a855f7?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/boas-conversas-c084fc?style=for-the-badge&labelColor=1a1a2e" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:c084fc&height=100&section=footer" width="100%"/>
 
 </div>
