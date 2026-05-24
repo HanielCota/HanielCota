@@ -5,8 +5,6 @@
 <br />
 <br />
 
-# hey, i'm Haniel Fialho
-
 ### full-stack developer building digital products, automation, and reliable systems
 
 `product engineering` · `backend` · `automation` · `ai-assisted development`
