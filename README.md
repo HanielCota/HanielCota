@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Haniel Fialho profile banner" width="100%" />
+<img src="./header.png" alt="Haniel Fialho profile banner" width="100%" />
 
 <br />
 <br />
