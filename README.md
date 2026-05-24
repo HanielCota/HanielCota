@@ -1,186 +1,113 @@
-<!-- header.svg must be in the repo root -->
 <div align="center">
-
-<img src="./header.svg" alt="Haniel Fialho — minecraft kid > fullstack dev > ai builder" width="100%" />
-
-<br>
-
-<a href="mailto:beedfialho@gmail.com"><img src="https://img.shields.io/badge/email-161b22?style=for-the-badge&logo=gmail&logoColor=8b949e" /></a>
-<a href="https://linkedin.com/in/hanielfialho"><img src="https://img.shields.io/badge/linkedin-161b22?style=for-the-badge&logo=linkedin&logoColor=8b949e" /></a>
-<a href="https://www.youtube.com/@HanielFialho"><img src="https://img.shields.io/badge/youtube-161b22?style=for-the-badge&logo=youtube&logoColor=8b949e" /></a>
-<a href="https://twitter.com/PrazerBeeD"><img src="https://img.shields.io/badge/twitter-161b22?style=for-the-badge&logo=x&logoColor=8b949e" /></a>
-
+  <img src="./banner.png" alt="Banner do perfil de Haniel Fialho" width="100%" />
 </div>
 
-<br>
+<h1 align="center">Haniel Fialho</h1>
 
-<!-- ═══════════════════════════════ -->
-<!-- TIMELINE                        -->
-<!-- ═══════════════════════════════ -->
+<p align="center">
+  Desenvolvedor full-stack focado em produtos digitais, automação e sistemas bem estruturados.
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="mailto:beedfialho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/hanielfialho">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@HanielFialho">
+    <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://twitter.com/PrazerBeeD">
+    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
-<!-- timeline.svg must be in the repo root -->
-<img src="./timeline.svg" alt="Minha jornada: de Minecraft em 2014 ate IA em 2026" width="100%" />
+---
 
-</div>
+## Sobre
 
-<br>
+Trabalho criando aplicações web, APIs, automações e ferramentas que resolvem problemas reais com uma base técnica consistente. Tenho interesse especial por produto, arquitetura, experiência do usuário e uso prático de tecnologia para ganhar eficiência.
 
-<!-- ═══════════════════════════════ -->
-<!-- TECH STACK                      -->
-<!-- ═══════════════════════════════ -->
+Meu foco é construir soluções claras, manuteníveis e preparadas para evoluir. Gosto de atuar tanto na parte visual e de experiência quanto na estrutura por trás do sistema: regras de negócio, banco de dados, integrações, performance e deploy.
 
-<div align="center">
-<h2>tech stack</h2>
-</div>
+Atualmente venho aprofundando meus estudos em desenvolvimento full-stack, automação, inteligência artificial aplicada ao desenvolvimento e fundamentos de negócio.
 
-<div align="center">
+## O que eu entrego
 
-<details open>
-<summary>&nbsp;<b>frontend</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,tailwind,html,css&theme=dark&perline=8" />
-<br><br>
-</details>
+- Desenvolvimento de interfaces modernas, responsivas e objetivas.
+- Criação de APIs, serviços backend e integrações.
+- Modelagem de dados, autenticação, regras de negócio e fluxos operacionais.
+- Automações para reduzir trabalho manual e organizar processos.
+- Aplicações com foco em performance, clareza de código e evolução do produto.
 
-<details open>
-<summary>&nbsp;<b>backend</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=java,nodejs,nestjs,express,graphql,postgres,mongodb,redis&theme=dark&perline=8" />
-<br><br>
-</details>
+## Projetos em destaque
 
-<details open>
-<summary>&nbsp;<b>languages &amp; tools</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=typescript,javascript,rust,c,cpp,docker,git,linux&theme=dark&perline=8" />
-<br><br>
-</details>
+| Projeto | Descrição | Link |
+| --- | --- | --- |
+| Ankares | SaaS em desenvolvimento, com foco em produto, operação e escala. | [ankares.com](https://ankares.com) |
+| Floruit | Projeto voltado a design, performance e presença digital. | [floruit.com.br](https://floruit.com.br) |
+| FialhoClean | Aplicação desktop com Tauri, Rust e React. | [Repositório](https://github.com/HanielCota/FialhoClean) |
 
-<details open>
-<summary>&nbsp;<b>ai &amp; dev tools</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Cursor-161b22?style=for-the-badge&logo=cursor&logoColor=8b949e" />
-<img src="https://img.shields.io/badge/Copilot-161b22?style=for-the-badge&logo=githubcopilot&logoColor=8b949e" />
-<img src="https://img.shields.io/badge/Claude-161b22?style=for-the-badge&logo=claude&logoColor=8b949e" />
-<img src="https://img.shields.io/badge/OpenAI-161b22?style=for-the-badge&logo=openai&logoColor=8b949e" />
-<img src="https://img.shields.io/badge/n8n-161b22?style=for-the-badge&logo=n8n&logoColor=8b949e" />
-<img src="https://img.shields.io/badge/Vercel_AI-161b22?style=for-the-badge&logo=vercel&logoColor=8b949e" />
-<br><br>
-</details>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════ -->
-<!-- PROJECTS                        -->
-<!-- ═══════════════════════════════ -->
-
-<div align="center">
-<h2>building</h2>
-
-<br>
-
-<a href="https://ankares.com">
-<img src="https://img.shields.io/badge/ANKARES-SaaS_em_producao-161b22?style=for-the-badge&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://floruit.com.br">
-<img src="https://img.shields.io/badge/FLORUIT-Design_%26_Performance-161b22?style=for-the-badge&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://github.com/HanielCota/FialhoClean">
-<img src="https://img.shields.io/badge/FIALHOCLEAN-Tauri_+_Rust_+_React-161b22?style=for-the-badge&labelColor=0d1117" />
-</a>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════ -->
-<!-- STATS                           -->
-<!-- ═══════════════════════════════ -->
-
-<div align="center">
-<h2>stats</h2>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=HanielCota&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&rank_icon=github&include_all_commits=true" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanielCota&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8" height="180"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=HanielCota&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=484f58&currStreakNum=e6edf3&sideNums=8b949e" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HanielCota&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff&hide_border=true&custom_title=contribuicoes" width="95%"/>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════ -->
-<!-- NOW                             -->
-<!-- ═══════════════════════════════ -->
-
-<div align="center">
-<h2>now</h2>
-
-<br>
-
-```
-  exploring AI in development
-  studying law (yes, code AND law)
-  training hard
-  powered by double espresso
-  solving problems nobody asked for
-```
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════ -->
-<!-- SNAKE                           -->
-<!-- ═══════════════════════════════ -->
-
-<!--
-  Snake animation requires a GitHub Action.
-  Place snake.yml in .github/workflows/snake.yml
-  and run it manually once. Image will be broken
-  until the "output" branch is created by the action.
--->
+## Stack
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HanielCota/HanielCota/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HanielCota/HanielCota/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/HanielCota/HanielCota/output/github-snake-dark.svg" width="100%" />
-</picture>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,tailwind,html,css&theme=light&perline=8" alt="Frontend stack" />
+
+### Backend e dados
+
+<img src="https://skillicons.dev/icons?i=java,nodejs,nestjs,express,graphql,postgres,mongodb,redis&theme=light&perline=8" alt="Backend stack" />
+
+### Linguagens e Ferramentas
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,rust,c,cpp,docker,git,linux&theme=light&perline=8" alt="Linguagens e ferramentas" />
 
 </div>
 
-<br>
+## Ferramentas e interesses
 
-<!-- ═══════════════════════════════ -->
-<!-- FOOTER                          -->
-<!-- ═══════════════════════════════ -->
+<p>
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-111111?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+</p>
+
+Tenho interesse por ferramentas que ajudam a acelerar ciclos de desenvolvimento, melhorar tomada de decisão técnica e transformar ideias em produtos funcionais com mais velocidade.
+
+## Estatísticas
 
 <div align="center">
-
-```
-"a curiosidade que me fez abrir o eclipse em 2014
- e a mesma que me faz estudar ia em 2026."
-```
-
-<img src="https://img.shields.io/badge/open_to-collaborations-161b22?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/ambitious-projects-161b22?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/good-conversations-161b22?style=for-the-badge&labelColor=0d1117" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HanielCota&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanielCota&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&langs_count=8" alt="Linguagens mais usadas" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanielCota&bg_color=ffffff&color=333333&line=111111&point=111111&area=true&area_color=f2f2f2&hide_border=true&custom_title=Contribuicoes" width="95%" alt="Gráfico de contribuições" />
+</div>
+
+## Atualmente
+
+- Desenvolvendo produtos próprios e projetos web.
+- Estudando formas melhores de integrar automação e desenvolvimento de software.
+- Aprofundando arquitetura de aplicações, backend e experiência de produto.
+- Aberto a conversas sobre tecnologia, produto, automação e projetos ambiciosos.
+
+## Contato
+
+Se quiser trocar uma ideia sobre produto, desenvolvimento ou colaborações, estes são os melhores canais:
+
+- Email: [beedfialho@gmail.com](mailto:beedfialho@gmail.com)
+- LinkedIn: [linkedin.com/in/hanielfialho](https://linkedin.com/in/hanielfialho)
+- YouTube: [@HanielFialho](https://www.youtube.com/@HanielFialho)
+- X: [@PrazerBeeD](https://twitter.com/PrazerBeeD)
+
+---
+
+<p align="center">
+  Construindo com critério, curiosidade e consistência.
+</p>
