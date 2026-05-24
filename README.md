@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="./banner.png" alt="Banner do perfil de Haniel Fialho" width="100%" />
-</div>
-
 <h1 align="center">Haniel Fialho</h1>
 
 <p align="center">
-  Desenvolvedor full-stack focado em produtos digitais, automação e sistemas bem estruturados.
+  Full-stack developer focused on digital products, automation, and well-structured systems.
 </p>
 
 <p align="center">
@@ -25,29 +21,29 @@
 
 ---
 
-## Sobre
+## About
 
-Trabalho criando aplicações web, APIs, automações e ferramentas que resolvem problemas reais com uma base técnica consistente. Tenho interesse especial por produto, arquitetura, experiência do usuário e uso prático de tecnologia para ganhar eficiência.
+I build web applications, APIs, automations, and tools with a strong technical foundation and a practical product mindset. My work sits between interface, business logic, integrations, data, and deployment.
 
-Meu foco é construir soluções claras, manuteníveis e preparadas para evoluir. Gosto de atuar tanto na parte visual e de experiência quanto na estrutura por trás do sistema: regras de negócio, banco de dados, integrações, performance e deploy.
+I care about writing software that is clear, maintainable, and ready to evolve. I like working across the full product cycle: understanding the problem, designing the user experience, shaping the architecture, implementing the system, and improving it over time.
 
-Atualmente venho aprofundando meus estudos em desenvolvimento full-stack, automação, inteligência artificial aplicada ao desenvolvimento e fundamentos de negócio.
+Right now, I am deepening my work in full-stack development, automation, applied AI for software development, and product fundamentals.
 
-## O que eu entrego
+## What I Work On
 
-- Desenvolvimento de interfaces modernas, responsivas e objetivas.
-- Criação de APIs, serviços backend e integrações.
-- Modelagem de dados, autenticação, regras de negócio e fluxos operacionais.
-- Automações para reduzir trabalho manual e organizar processos.
-- Aplicações com foco em performance, clareza de código e evolução do produto.
+- Modern, responsive, and purposeful web interfaces.
+- APIs, backend services, and system integrations.
+- Data modeling, authentication, business rules, and operational flows.
+- Automations that reduce manual work and improve execution.
+- Applications focused on performance, code clarity, and product evolution.
 
-## Projetos em destaque
+## Featured Projects
 
-| Projeto | Descrição | Link |
+| Project | Description | Link |
 | --- | --- | --- |
-| Ankares | SaaS em desenvolvimento, com foco em produto, operação e escala. | [ankares.com](https://ankares.com) |
-| Floruit | Projeto voltado a design, performance e presença digital. | [floruit.com.br](https://floruit.com.br) |
-| FialhoClean | Aplicação desktop com Tauri, Rust e React. | [Repositório](https://github.com/HanielCota/FialhoClean) |
+| Ankares | SaaS project focused on product, operations, and scalability. | [ankares.com](https://ankares.com) |
+| Floruit | Digital presence project focused on design and performance. | [floruit.com.br](https://floruit.com.br) |
+| FialhoClean | Desktop application built with Tauri, Rust, and React. | [Repository](https://github.com/HanielCota/FialhoClean) |
 
 ## Stack
 
@@ -57,17 +53,17 @@ Atualmente venho aprofundando meus estudos em desenvolvimento full-stack, automa
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,tailwind,html,css&theme=light&perline=8" alt="Frontend stack" />
 
-### Backend e dados
+### Backend and Data
 
 <img src="https://skillicons.dev/icons?i=java,nodejs,nestjs,express,graphql,postgres,mongodb,redis&theme=light&perline=8" alt="Backend stack" />
 
-### Linguagens e Ferramentas
+### Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,rust,c,cpp,docker,git,linux&theme=light&perline=8" alt="Linguagens e ferramentas" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,rust,c,cpp,docker,git,linux&theme=light&perline=8" alt="Languages and tools" />
 
 </div>
 
-## Ferramentas e interesses
+## Tools and Interests
 
 <p>
   <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
@@ -77,29 +73,29 @@ Atualmente venho aprofundando meus estudos em desenvolvimento full-stack, automa
   <img src="https://img.shields.io/badge/Vercel_AI_SDK-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
 </p>
 
-Tenho interesse por ferramentas que ajudam a acelerar ciclos de desenvolvimento, melhorar tomada de decisão técnica e transformar ideias em produtos funcionais com mais velocidade.
+I am interested in tools that shorten development cycles, improve technical decision-making, and turn ideas into working products faster.
 
-## Estatísticas
+## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HanielCota&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanielCota&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&langs_count=8" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HanielCota&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanielCota&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanielCota&bg_color=ffffff&color=333333&line=111111&point=111111&area=true&area_color=f2f2f2&hide_border=true&custom_title=Contribuicoes" width="95%" alt="Gráfico de contribuições" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanielCota&bg_color=ffffff&color=333333&line=111111&point=111111&area=true&area_color=f2f2f2&hide_border=true&custom_title=Contributions" width="95%" alt="Contribution graph" />
 </div>
 
-## Atualmente
+## Currently
 
-- Desenvolvendo produtos próprios e projetos web.
-- Estudando formas melhores de integrar automação e desenvolvimento de software.
-- Aprofundando arquitetura de aplicações, backend e experiência de produto.
-- Aberto a conversas sobre tecnologia, produto, automação e projetos ambiciosos.
+- Building personal products and web projects.
+- Studying better ways to combine automation and software development.
+- Improving my foundation in application architecture, backend, and product experience.
+- Open to conversations about technology, product, automation, and ambitious projects.
 
-## Contato
+## Contact
 
-Se quiser trocar uma ideia sobre produto, desenvolvimento ou colaborações, estes são os melhores canais:
+The best ways to reach me:
 
 - Email: [beedfialho@gmail.com](mailto:beedfialho@gmail.com)
 - LinkedIn: [linkedin.com/in/hanielfialho](https://linkedin.com/in/hanielfialho)
@@ -109,5 +105,5 @@ Se quiser trocar uma ideia sobre produto, desenvolvimento ou colaborações, est
 ---
 
 <p align="center">
-  Construindo com critério, curiosidade e consistência.
+  Building with clarity, curiosity, and consistency.
 </p>
