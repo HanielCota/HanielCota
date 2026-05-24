@@ -5,19 +5,19 @@
 **Full-stack developer building digital products, automation, and reliable software systems.**
 
 <a href="mailto:beedfialho@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/hanielfialho">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/haniel_fialho/">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://x.com/HanielDev">
-  <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 <a href="https://www.youtube.com/@HanielFialho">
-  <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
 <br />
