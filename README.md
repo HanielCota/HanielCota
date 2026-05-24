@@ -1,8 +1,12 @@
 <div align="center">
 
-# Haniel Fialho
+# hey, i'm Haniel
 
-**Full-stack developer building digital products, automation, and reliable software systems.**
+### full-stack developer building digital products, automation, and reliable systems
+
+`product engineering` · `backend` · `automation` · `ai-assisted development`
+
+<br />
 
 <a href="mailto:beedfialho@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
