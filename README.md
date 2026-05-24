@@ -14,7 +14,10 @@
   <a href="https://www.youtube.com/@HanielFialho">
     <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://twitter.com/PrazerBeeD">
+  <a href="https://www.instagram.com/haniel_fialho/">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/HanielDev">
     <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
@@ -78,12 +81,13 @@ I am interested in tools that shorten development cycles, improve technical deci
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HanielCota&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanielCota&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanielCota&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanielCota&theme=github_dark" alt="Top languages by repository" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HanielCota&theme=github_dark" alt="Top languages by commit" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanielCota&bg_color=ffffff&color=333333&line=111111&point=111111&area=true&area_color=f2f2f2&hide_border=true&custom_title=Contributions" width="95%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanielCota&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff&hide_border=true&custom_title=Contributions" width="95%" alt="Contribution graph" />
 </div>
 
 ## Currently
@@ -100,7 +104,8 @@ The best ways to reach me:
 - Email: [beedfialho@gmail.com](mailto:beedfialho@gmail.com)
 - LinkedIn: [linkedin.com/in/hanielfialho](https://linkedin.com/in/hanielfialho)
 - YouTube: [@HanielFialho](https://www.youtube.com/@HanielFialho)
-- X: [@PrazerBeeD](https://twitter.com/PrazerBeeD)
+- Instagram: [@haniel_fialho](https://www.instagram.com/haniel_fialho/)
+- X: [@HanielDev](https://x.com/HanielDev)
 
 ---
 
