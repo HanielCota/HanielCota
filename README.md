@@ -1,84 +1,114 @@
-<h1 align="center">Haniel Fialho</h1>
-
-<p align="center">
-  Full-stack developer focused on digital products, automation, and well-structured systems.
-</p>
-
-<p align="center">
-  <a href="mailto:beedfialho@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/hanielfialho">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@HanielFialho">
-    <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/haniel_fialho/">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/HanielDev">
-    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
-
----
-
-## About
-
-I build web applications, APIs, automations, and tools with a strong technical foundation and a practical product mindset. My work sits between interface, business logic, integrations, data, and deployment.
-
-I care about writing software that is clear, maintainable, and ready to evolve. I like working across the full product cycle: understanding the problem, designing the user experience, shaping the architecture, implementing the system, and improving it over time.
-
-Right now, I am deepening my work in full-stack development, automation, applied AI for software development, and product fundamentals.
-
-## What I Work On
-
-- Modern, responsive, and purposeful web interfaces.
-- APIs, backend services, and system integrations.
-- Data modeling, authentication, business rules, and operational flows.
-- Automations that reduce manual work and improve execution.
-- Applications focused on performance, code clarity, and product evolution.
-
-## Featured Projects
-
-| Project | Description | Link |
-| --- | --- | --- |
-| Ankares | SaaS project focused on product, operations, and scalability. | [ankares.com](https://ankares.com) |
-| Floruit | Digital presence project focused on design and performance. | [floruit.com.br](https://floruit.com.br) |
-| FialhoClean | Desktop application built with Tauri, Rust, and React. | [Repository](https://github.com/HanielCota/FialhoClean) |
-
-## Stack
-
 <div align="center">
 
-### Frontend
+# Haniel Fialho
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,tailwind,html,css&theme=light&perline=8" alt="Frontend stack" />
+**Full-stack developer building digital products, automation, and reliable software systems.**
 
-### Backend and Data
+<a href="mailto:beedfialho@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/hanielfialho">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/haniel_fialho/">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://x.com/HanielDev">
+  <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://www.youtube.com/@HanielFialho">
+  <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=java,nodejs,nestjs,express,graphql,postgres,mongodb,redis&theme=light&perline=8" alt="Backend stack" />
+<br />
+<br />
 
-### Languages and Tools
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,rust,c,cpp,docker,git,linux&theme=light&perline=8" alt="Languages and tools" />
+<img src="https://komarev.com/ghpvc/?username=HanielCota&style=for-the-badge&color=0d1117&label=Profile+views" alt="Profile views" />
 
 </div>
 
-## Tools and Interests
+---
+
+## Focus
+
+I work across the full product cycle: interface, backend, integrations, data, automation, and deployment. I like turning unclear problems into practical systems that are easy to use, maintain, and improve.
+
+<table>
+  <tr>
+    <td><b>Product Engineering</b></td>
+    <td>Building web products with clear flows, useful features, and maintainable foundations.</td>
+  </tr>
+  <tr>
+    <td><b>Automation</b></td>
+    <td>Designing workflows that reduce repetitive work and make operations easier to scale.</td>
+  </tr>
+  <tr>
+    <td><b>Architecture</b></td>
+    <td>Structuring applications around clean boundaries, readable code, and long-term evolution.</td>
+  </tr>
+  <tr>
+    <td><b>AI-assisted Development</b></td>
+    <td>Using modern tools to move faster while keeping technical judgment and code quality in focus.</td>
+  </tr>
+</table>
+
+## Featured Work
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Ankares</h3>
+      <p>SaaS project focused on product, operations, and scalability.</p>
+      <a href="https://ankares.com">
+        <img src="https://img.shields.io/badge/Visit-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Visit Ankares" />
+      </a>
+    </td>
+    <td width="33%">
+      <h3>Floruit</h3>
+      <p>Digital presence project focused on design, performance, and execution.</p>
+      <a href="https://floruit.com.br">
+        <img src="https://img.shields.io/badge/Visit-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Visit Floruit" />
+      </a>
+    </td>
+    <td width="33%">
+      <h3>FialhoClean</h3>
+      <p>Desktop application built with Tauri, Rust, and React.</p>
+      <a href="https://github.com/HanielCota/FialhoClean">
+        <img src="https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=white" alt="FialhoClean repository" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,svelte,tailwind,html,css&theme=dark&perline=8" alt="Frontend stack" />
+
+**Backend and Data**
+
+<img src="https://skillicons.dev/icons?i=java,nodejs,nestjs,express,graphql,postgres,mongodb,redis&theme=dark&perline=8" alt="Backend and data stack" />
+
+**Languages and Tools**
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,rust,c,cpp,docker,git,linux&theme=dark&perline=8" alt="Languages and tools" />
+
+</div>
+
+## Tools I Use
 
 <p>
-  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-111111?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Vercel_AI_SDK-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+  <img src="https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-0d1117?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
 </p>
 
-I am interested in tools that shorten development cycles, improve technical decision-making, and turn ideas into working products faster.
-
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanielCota&theme=github_dark" alt="GitHub stats" />
@@ -87,28 +117,28 @@ I am interested in tools that shorten development cycles, improve technical deci
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanielCota&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff&hide_border=true&custom_title=Contributions" width="95%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanielCota&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution graph" />
 </div>
 
 ## Currently
 
 - Building personal products and web projects.
-- Studying better ways to combine automation and software development.
-- Improving my foundation in application architecture, backend, and product experience.
-- Open to conversations about technology, product, automation, and ambitious projects.
+- Improving backend, architecture, and product experience foundations.
+- Studying practical ways to combine automation and software development.
+- Open to conversations about technology, product, automation, and ambitious ideas.
 
 ## Contact
 
-The best ways to reach me:
-
-- Email: [beedfialho@gmail.com](mailto:beedfialho@gmail.com)
-- LinkedIn: [linkedin.com/in/hanielfialho](https://linkedin.com/in/hanielfialho)
-- YouTube: [@HanielFialho](https://www.youtube.com/@HanielFialho)
-- Instagram: [@haniel_fialho](https://www.instagram.com/haniel_fialho/)
-- X: [@HanielDev](https://x.com/HanielDev)
+<p>
+  <a href="mailto:beedfialho@gmail.com">beedfialho@gmail.com</a> ·
+  <a href="https://linkedin.com/in/hanielfialho">LinkedIn</a> ·
+  <a href="https://www.instagram.com/haniel_fialho/">Instagram</a> ·
+  <a href="https://x.com/HanielDev">X</a> ·
+  <a href="https://www.youtube.com/@HanielFialho">YouTube</a>
+</p>
 
 ---
 
-<p align="center">
-  Building with clarity, curiosity, and consistency.
-</p>
+<div align="center">
+  <b>Building with clarity, curiosity, and consistency.</b>
+</div>
