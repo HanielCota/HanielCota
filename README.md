@@ -112,16 +112,15 @@ I work across the full product cycle: interface, backend, integrations, data, au
   <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
 </p>
 
-## GitHub Activity
+## GitHub Overview
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanielCota&theme=github_dark" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanielCota&theme=github_dark" alt="Top languages by repository" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HanielCota&theme=github_dark" alt="Top languages by commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HanielCota&theme=github_dark" width="92%" alt="GitHub profile details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanielCota&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanielCota&theme=github_dark" width="45%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanielCota&theme=github_dark" width="45%" alt="Top languages by repository" />
 </div>
 
 ## Currently
