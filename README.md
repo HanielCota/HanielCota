@@ -62,14 +62,13 @@ I work across the full product cycle: interface, backend, integrations, data, au
 ## Featured Work
 
 <table>
-  <tr>
-    <td width="33%">
-      <h3>Ankares</h3>
-      <p>SaaS project focused on product, operations, and scalability.</p>
-      <a href="https://ankares.com">
-        <img src="https://img.shields.io/badge/Visit-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Visit Ankares" />
-      </a>
-    </td>
+<td width="33%">
+  <h3>Grabix</h3>
+  <p>SaaS platform designed to simplify operations through automation, integrations, and intelligent workflows.</p>
+  <a href="https://github.com/HanielCota/Grabix">
+    <img src="https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=white" alt="Grabix repository" />
+  </a>
+  </td>
     <td width="33%">
       <h3>Floruit</h3>
       <p>Digital presence project focused on design, performance, and execution.</p>
